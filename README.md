@@ -1,6 +1,6 @@
-# A toy browser engine to learn Rust
+# A toy browser engine I made to learn Rust
 
-### HTML PARSER
+## HTML PARSER
 
 #### Allowed Syntax:
 
