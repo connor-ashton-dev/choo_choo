@@ -1,12 +1,14 @@
-## A toy browser engine to learn Rust
+# A toy browser engine to learn Rust
 
-### Allowed Syntax:
+### HTML PARSER
+
+#### Allowed Syntax:
 
 - Balanced tags: `<p>...</p>`
 - Attributes with quoted values: `id="main"`
 - Text nodes: `<em>world</em>`
 
-### To-Do:
+#### To-Do:
 
 - Comments
 - Doctype declarations
